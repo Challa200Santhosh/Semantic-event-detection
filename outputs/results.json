@@ -1,0 +1,822 @@
+[
+    {
+        "frame": 0,
+        "event": "crowded scene",
+        "confidence": 0.2513705790042877,
+        "similarity_scores": {
+            "person walking": 0.22402741014957428,
+            "vehicle stopping": 0.1947336047887802,
+            "crowded scene": 0.2513705790042877
+        }
+    },
+    {
+        "frame": 1,
+        "event": "crowded scene",
+        "confidence": 0.2585648000240326,
+        "similarity_scores": {
+            "person walking": 0.23647914826869965,
+            "vehicle stopping": 0.21206223964691162,
+            "crowded scene": 0.2585648000240326
+        }
+    },
+    {
+        "frame": 2,
+        "event": "crowded scene",
+        "confidence": 0.25948452949523926,
+        "similarity_scores": {
+            "person walking": 0.2326718121767044,
+            "vehicle stopping": 0.20496854186058044,
+            "crowded scene": 0.25948452949523926
+        }
+    },
+    {
+        "frame": 3,
+        "event": "crowded scene",
+        "confidence": 0.2543509006500244,
+        "similarity_scores": {
+            "person walking": 0.22581367194652557,
+            "vehicle stopping": 0.19902795553207397,
+            "crowded scene": 0.2543509006500244
+        }
+    },
+    {
+        "frame": 4,
+        "event": "crowded scene",
+        "confidence": 0.2524924576282501,
+        "similarity_scores": {
+            "person walking": 0.22030134499073029,
+            "vehicle stopping": 0.19444890320301056,
+            "crowded scene": 0.2524924576282501
+        }
+    },
+    {
+        "frame": 5,
+        "event": "crowded scene",
+        "confidence": 0.25650137662887573,
+        "similarity_scores": {
+            "person walking": 0.24008844792842865,
+            "vehicle stopping": 0.2055543214082718,
+            "crowded scene": 0.25650137662887573
+        }
+    },
+    {
+        "frame": 6,
+        "event": "crowded scene",
+        "confidence": 0.25301581621170044,
+        "similarity_scores": {
+            "person walking": 0.2350701093673706,
+            "vehicle stopping": 0.19541795551776886,
+            "crowded scene": 0.25301581621170044
+        }
+    },
+    {
+        "frame": 7,
+        "event": "crowded scene",
+        "confidence": 0.2540014386177063,
+        "similarity_scores": {
+            "person walking": 0.23913341760635376,
+            "vehicle stopping": 0.19987615942955017,
+            "crowded scene": 0.2540014386177063
+        }
+    },
+    {
+        "frame": 8,
+        "event": "crowded scene",
+        "confidence": 0.25482800602912903,
+        "similarity_scores": {
+            "person walking": 0.23395967483520508,
+            "vehicle stopping": 0.20149214565753937,
+            "crowded scene": 0.25482800602912903
+        }
+    },
+    {
+        "frame": 9,
+        "event": "crowded scene",
+        "confidence": 0.24773792922496796,
+        "similarity_scores": {
+            "person walking": 0.2293640673160553,
+            "vehicle stopping": 0.2001010924577713,
+            "crowded scene": 0.24773792922496796
+        }
+    },
+    {
+        "frame": 10,
+        "event": "crowded scene",
+        "confidence": 0.25571712851524353,
+        "similarity_scores": {
+            "person walking": 0.22751159965991974,
+            "vehicle stopping": 0.20309056341648102,
+            "crowded scene": 0.25571712851524353
+        }
+    },
+    {
+        "frame": 11,
+        "event": "crowded scene",
+        "confidence": 0.2559688687324524,
+        "similarity_scores": {
+            "person walking": 0.23170670866966248,
+            "vehicle stopping": 0.21091854572296143,
+            "crowded scene": 0.2559688687324524
+        }
+    },
+    {
+        "frame": 12,
+        "event": "crowded scene",
+        "confidence": 0.2534922659397125,
+        "similarity_scores": {
+            "person walking": 0.22681382298469543,
+            "vehicle stopping": 0.20837074518203735,
+            "crowded scene": 0.2534922659397125
+        }
+    },
+    {
+        "frame": 13,
+        "event": "crowded scene",
+        "confidence": 0.2590707838535309,
+        "similarity_scores": {
+            "person walking": 0.22400690615177155,
+            "vehicle stopping": 0.20605506002902985,
+            "crowded scene": 0.2590707838535309
+        }
+    },
+    {
+        "frame": 14,
+        "event": "crowded scene",
+        "confidence": 0.2643720805644989,
+        "similarity_scores": {
+            "person walking": 0.22970880568027496,
+            "vehicle stopping": 0.20944583415985107,
+            "crowded scene": 0.2643720805644989
+        }
+    },
+    {
+        "frame": 15,
+        "event": "crowded scene",
+        "confidence": 0.2615242600440979,
+        "similarity_scores": {
+            "person walking": 0.22708101570606232,
+            "vehicle stopping": 0.20223164558410645,
+            "crowded scene": 0.2615242600440979
+        }
+    },
+    {
+        "frame": 16,
+        "event": "crowded scene",
+        "confidence": 0.26409608125686646,
+        "similarity_scores": {
+            "person walking": 0.22745400667190552,
+            "vehicle stopping": 0.21154262125492096,
+            "crowded scene": 0.26409608125686646
+        }
+    },
+    {
+        "frame": 17,
+        "event": "crowded scene",
+        "confidence": 0.2679389417171478,
+        "similarity_scores": {
+            "person walking": 0.2320038378238678,
+            "vehicle stopping": 0.21293649077415466,
+            "crowded scene": 0.2679389417171478
+        }
+    },
+    {
+        "frame": 18,
+        "event": "crowded scene",
+        "confidence": 0.26767149567604065,
+        "similarity_scores": {
+            "person walking": 0.2288801670074463,
+            "vehicle stopping": 0.21132171154022217,
+            "crowded scene": 0.26767149567604065
+        }
+    },
+    {
+        "frame": 19,
+        "event": "crowded scene",
+        "confidence": 0.250153511762619,
+        "similarity_scores": {
+            "person walking": 0.21505340933799744,
+            "vehicle stopping": 0.1918548047542572,
+            "crowded scene": 0.250153511762619
+        }
+    },
+    {
+        "frame": 20,
+        "event": "crowded scene",
+        "confidence": 0.25640594959259033,
+        "similarity_scores": {
+            "person walking": 0.2201692909002304,
+            "vehicle stopping": 0.20387791097164154,
+            "crowded scene": 0.25640594959259033
+        }
+    },
+    {
+        "frame": 21,
+        "event": "crowded scene",
+        "confidence": 0.2572770118713379,
+        "similarity_scores": {
+            "person walking": 0.2238667607307434,
+            "vehicle stopping": 0.20575280487537384,
+            "crowded scene": 0.2572770118713379
+        }
+    },
+    {
+        "frame": 22,
+        "event": "crowded scene",
+        "confidence": 0.24938569962978363,
+        "similarity_scores": {
+            "person walking": 0.2142276018857956,
+            "vehicle stopping": 0.20113375782966614,
+            "crowded scene": 0.24938569962978363
+        }
+    },
+    {
+        "frame": 23,
+        "event": "crowded scene",
+        "confidence": 0.2533119022846222,
+        "similarity_scores": {
+            "person walking": 0.21170960366725922,
+            "vehicle stopping": 0.19936400651931763,
+            "crowded scene": 0.2533119022846222
+        }
+    },
+    {
+        "frame": 24,
+        "event": "crowded scene",
+        "confidence": 0.24960654973983765,
+        "similarity_scores": {
+            "person walking": 0.2169557362794876,
+            "vehicle stopping": 0.1991804987192154,
+            "crowded scene": 0.24960654973983765
+        }
+    },
+    {
+        "frame": 25,
+        "event": "crowded scene",
+        "confidence": 0.2517765760421753,
+        "similarity_scores": {
+            "person walking": 0.22433580458164215,
+            "vehicle stopping": 0.2038450837135315,
+            "crowded scene": 0.2517765760421753
+        }
+    },
+    {
+        "frame": 26,
+        "event": "crowded scene",
+        "confidence": 0.25408315658569336,
+        "similarity_scores": {
+            "person walking": 0.2161865383386612,
+            "vehicle stopping": 0.19590172171592712,
+            "crowded scene": 0.25408315658569336
+        }
+    },
+    {
+        "frame": 27,
+        "event": "crowded scene",
+        "confidence": 0.2583007514476776,
+        "similarity_scores": {
+            "person walking": 0.22192928194999695,
+            "vehicle stopping": 0.19839701056480408,
+            "crowded scene": 0.2583007514476776
+        }
+    },
+    {
+        "frame": 28,
+        "event": "crowded scene",
+        "confidence": 0.2550594210624695,
+        "similarity_scores": {
+            "person walking": 0.22913315892219543,
+            "vehicle stopping": 0.19758754968643188,
+            "crowded scene": 0.2550594210624695
+        }
+    },
+    {
+        "frame": 29,
+        "event": "crowded scene",
+        "confidence": 0.26279425621032715,
+        "similarity_scores": {
+            "person walking": 0.23352381587028503,
+            "vehicle stopping": 0.19731730222702026,
+            "crowded scene": 0.26279425621032715
+        }
+    },
+    {
+        "frame": 30,
+        "event": "crowded scene",
+        "confidence": 0.2639603018760681,
+        "similarity_scores": {
+            "person walking": 0.22342723608016968,
+            "vehicle stopping": 0.1968180388212204,
+            "crowded scene": 0.2639603018760681
+        }
+    },
+    {
+        "frame": 31,
+        "event": "crowded scene",
+        "confidence": 0.25761041045188904,
+        "similarity_scores": {
+            "person walking": 0.22657041251659393,
+            "vehicle stopping": 0.19827324151992798,
+            "crowded scene": 0.25761041045188904
+        }
+    },
+    {
+        "frame": 32,
+        "event": "crowded scene",
+        "confidence": 0.25454315543174744,
+        "similarity_scores": {
+            "person walking": 0.22463907301425934,
+            "vehicle stopping": 0.19920839369297028,
+            "crowded scene": 0.25454315543174744
+        }
+    },
+    {
+        "frame": 33,
+        "event": "crowded scene",
+        "confidence": 0.25147101283073425,
+        "similarity_scores": {
+            "person walking": 0.2172645926475525,
+            "vehicle stopping": 0.19719360768795013,
+            "crowded scene": 0.25147101283073425
+        }
+    },
+    {
+        "frame": 34,
+        "event": "crowded scene",
+        "confidence": 0.25217846035957336,
+        "similarity_scores": {
+            "person walking": 0.2236105054616928,
+            "vehicle stopping": 0.19452641904354095,
+            "crowded scene": 0.25217846035957336
+        }
+    },
+    {
+        "frame": 35,
+        "event": "crowded scene",
+        "confidence": 0.24815770983695984,
+        "similarity_scores": {
+            "person walking": 0.22749531269073486,
+            "vehicle stopping": 0.19664767384529114,
+            "crowded scene": 0.24815770983695984
+        }
+    },
+    {
+        "frame": 36,
+        "event": "crowded scene",
+        "confidence": 0.26253557205200195,
+        "similarity_scores": {
+            "person walking": 0.24106793105602264,
+            "vehicle stopping": 0.21619746088981628,
+            "crowded scene": 0.26253557205200195
+        }
+    },
+    {
+        "frame": 37,
+        "event": "crowded scene",
+        "confidence": 0.26260820031166077,
+        "similarity_scores": {
+            "person walking": 0.2274179458618164,
+            "vehicle stopping": 0.20656579732894897,
+            "crowded scene": 0.26260820031166077
+        }
+    },
+    {
+        "frame": 38,
+        "event": "crowded scene",
+        "confidence": 0.25890621542930603,
+        "similarity_scores": {
+            "person walking": 0.22274115681648254,
+            "vehicle stopping": 0.20521384477615356,
+            "crowded scene": 0.25890621542930603
+        }
+    },
+    {
+        "frame": 39,
+        "event": "crowded scene",
+        "confidence": 0.25329533219337463,
+        "similarity_scores": {
+            "person walking": 0.2275673747062683,
+            "vehicle stopping": 0.20860129594802856,
+            "crowded scene": 0.25329533219337463
+        }
+    },
+    {
+        "frame": 40,
+        "event": "crowded scene",
+        "confidence": 0.2509012818336487,
+        "similarity_scores": {
+            "person walking": 0.22070856392383575,
+            "vehicle stopping": 0.20332089066505432,
+            "crowded scene": 0.2509012818336487
+        }
+    },
+    {
+        "frame": 41,
+        "event": "crowded scene",
+        "confidence": 0.25619766116142273,
+        "similarity_scores": {
+            "person walking": 0.21840189397335052,
+            "vehicle stopping": 0.20125117897987366,
+            "crowded scene": 0.25619766116142273
+        }
+    },
+    {
+        "frame": 42,
+        "event": "crowded scene",
+        "confidence": 0.2550268769264221,
+        "similarity_scores": {
+            "person walking": 0.23085404932498932,
+            "vehicle stopping": 0.20421969890594482,
+            "crowded scene": 0.2550268769264221
+        }
+    },
+    {
+        "frame": 43,
+        "event": "crowded scene",
+        "confidence": 0.2546168267726898,
+        "similarity_scores": {
+            "person walking": 0.22323493659496307,
+            "vehicle stopping": 0.19910642504692078,
+            "crowded scene": 0.2546168267726898
+        }
+    },
+    {
+        "frame": 44,
+        "event": "crowded scene",
+        "confidence": 0.2532039284706116,
+        "similarity_scores": {
+            "person walking": 0.22304603457450867,
+            "vehicle stopping": 0.19847247004508972,
+            "crowded scene": 0.2532039284706116
+        }
+    },
+    {
+        "frame": 45,
+        "event": "crowded scene",
+        "confidence": 0.25435179471969604,
+        "similarity_scores": {
+            "person walking": 0.22754116356372833,
+            "vehicle stopping": 0.20362676680088043,
+            "crowded scene": 0.25435179471969604
+        }
+    },
+    {
+        "frame": 46,
+        "event": "crowded scene",
+        "confidence": 0.25200602412223816,
+        "similarity_scores": {
+            "person walking": 0.22451911866664886,
+            "vehicle stopping": 0.20519724488258362,
+            "crowded scene": 0.25200602412223816
+        }
+    },
+    {
+        "frame": 47,
+        "event": "crowded scene",
+        "confidence": 0.25581803917884827,
+        "similarity_scores": {
+            "person walking": 0.22052669525146484,
+            "vehicle stopping": 0.2070848047733307,
+            "crowded scene": 0.25581803917884827
+        }
+    },
+    {
+        "frame": 48,
+        "event": "crowded scene",
+        "confidence": 0.26273903250694275,
+        "similarity_scores": {
+            "person walking": 0.2234736680984497,
+            "vehicle stopping": 0.21024738252162933,
+            "crowded scene": 0.26273903250694275
+        }
+    },
+    {
+        "frame": 49,
+        "event": "crowded scene",
+        "confidence": 0.2715453803539276,
+        "similarity_scores": {
+            "person walking": 0.22420965135097504,
+            "vehicle stopping": 0.20832815766334534,
+            "crowded scene": 0.2715453803539276
+        }
+    },
+    {
+        "frame": 50,
+        "event": "crowded scene",
+        "confidence": 0.264486700296402,
+        "similarity_scores": {
+            "person walking": 0.21598781645298004,
+            "vehicle stopping": 0.2053106427192688,
+            "crowded scene": 0.264486700296402
+        }
+    },
+    {
+        "frame": 51,
+        "event": "crowded scene",
+        "confidence": 0.25552356243133545,
+        "similarity_scores": {
+            "person walking": 0.21100404858589172,
+            "vehicle stopping": 0.2014225870370865,
+            "crowded scene": 0.25552356243133545
+        }
+    },
+    {
+        "frame": 52,
+        "event": "crowded scene",
+        "confidence": 0.25680413842201233,
+        "similarity_scores": {
+            "person walking": 0.22355851531028748,
+            "vehicle stopping": 0.20877285301685333,
+            "crowded scene": 0.25680413842201233
+        }
+    },
+    {
+        "frame": 53,
+        "event": "crowded scene",
+        "confidence": 0.25130587816238403,
+        "similarity_scores": {
+            "person walking": 0.22682562470436096,
+            "vehicle stopping": 0.20729243755340576,
+            "crowded scene": 0.25130587816238403
+        }
+    },
+    {
+        "frame": 54,
+        "event": "crowded scene",
+        "confidence": 0.2501518428325653,
+        "similarity_scores": {
+            "person walking": 0.23872604966163635,
+            "vehicle stopping": 0.20690806210041046,
+            "crowded scene": 0.2501518428325653
+        }
+    },
+    {
+        "frame": 55,
+        "event": "crowded scene",
+        "confidence": 0.24783433973789215,
+        "similarity_scores": {
+            "person walking": 0.24562127888202667,
+            "vehicle stopping": 0.2062877118587494,
+            "crowded scene": 0.24783433973789215
+        }
+    },
+    {
+        "frame": 56,
+        "event": "crowded scene",
+        "confidence": 0.24959586560726166,
+        "similarity_scores": {
+            "person walking": 0.23692716658115387,
+            "vehicle stopping": 0.2095678746700287,
+            "crowded scene": 0.24959586560726166
+        }
+    },
+    {
+        "frame": 57,
+        "event": "crowded scene",
+        "confidence": 0.2464415431022644,
+        "similarity_scores": {
+            "person walking": 0.2374575436115265,
+            "vehicle stopping": 0.2160181850194931,
+            "crowded scene": 0.2464415431022644
+        }
+    },
+    {
+        "frame": 58,
+        "event": "crowded scene",
+        "confidence": 0.24983495473861694,
+        "similarity_scores": {
+            "person walking": 0.23653899133205414,
+            "vehicle stopping": 0.20679473876953125,
+            "crowded scene": 0.24983495473861694
+        }
+    },
+    {
+        "frame": 59,
+        "event": "crowded scene",
+        "confidence": 0.2512895464897156,
+        "similarity_scores": {
+            "person walking": 0.23982661962509155,
+            "vehicle stopping": 0.21020714938640594,
+            "crowded scene": 0.2512895464897156
+        }
+    },
+    {
+        "frame": 60,
+        "event": "crowded scene",
+        "confidence": 0.25142839550971985,
+        "similarity_scores": {
+            "person walking": 0.2399836778640747,
+            "vehicle stopping": 0.20986205339431763,
+            "crowded scene": 0.25142839550971985
+        }
+    },
+    {
+        "frame": 61,
+        "event": "crowded scene",
+        "confidence": 0.24971824884414673,
+        "similarity_scores": {
+            "person walking": 0.23623424768447876,
+            "vehicle stopping": 0.21059472858905792,
+            "crowded scene": 0.24971824884414673
+        }
+    },
+    {
+        "frame": 62,
+        "event": "crowded scene",
+        "confidence": 0.25434526801109314,
+        "similarity_scores": {
+            "person walking": 0.23081547021865845,
+            "vehicle stopping": 0.20506319403648376,
+            "crowded scene": 0.25434526801109314
+        }
+    },
+    {
+        "frame": 63,
+        "event": "crowded scene",
+        "confidence": 0.25286737084388733,
+        "similarity_scores": {
+            "person walking": 0.23543280363082886,
+            "vehicle stopping": 0.2088446468114853,
+            "crowded scene": 0.25286737084388733
+        }
+    },
+    {
+        "frame": 64,
+        "event": "crowded scene",
+        "confidence": 0.24822936952114105,
+        "similarity_scores": {
+            "person walking": 0.23771953582763672,
+            "vehicle stopping": 0.21218179166316986,
+            "crowded scene": 0.24822936952114105
+        }
+    },
+    {
+        "frame": 65,
+        "event": "crowded scene",
+        "confidence": 0.2452859878540039,
+        "similarity_scores": {
+            "person walking": 0.23651444911956787,
+            "vehicle stopping": 0.2091846466064453,
+            "crowded scene": 0.2452859878540039
+        }
+    },
+    {
+        "frame": 66,
+        "event": "crowded scene",
+        "confidence": 0.24796241521835327,
+        "similarity_scores": {
+            "person walking": 0.2376888394355774,
+            "vehicle stopping": 0.21181225776672363,
+            "crowded scene": 0.24796241521835327
+        }
+    },
+    {
+        "frame": 67,
+        "event": "crowded scene",
+        "confidence": 0.2550971806049347,
+        "similarity_scores": {
+            "person walking": 0.23956100642681122,
+            "vehicle stopping": 0.21040122210979462,
+            "crowded scene": 0.2550971806049347
+        }
+    },
+    {
+        "frame": 68,
+        "event": "crowded scene",
+        "confidence": 0.2522672116756439,
+        "similarity_scores": {
+            "person walking": 0.23913542926311493,
+            "vehicle stopping": 0.2085312306880951,
+            "crowded scene": 0.2522672116756439
+        }
+    },
+    {
+        "frame": 69,
+        "event": "crowded scene",
+        "confidence": 0.25028035044670105,
+        "similarity_scores": {
+            "person walking": 0.23379966616630554,
+            "vehicle stopping": 0.20808933675289154,
+            "crowded scene": 0.25028035044670105
+        }
+    },
+    {
+        "frame": 70,
+        "event": "crowded scene",
+        "confidence": 0.2511976361274719,
+        "similarity_scores": {
+            "person walking": 0.24395564198493958,
+            "vehicle stopping": 0.2202688455581665,
+            "crowded scene": 0.2511976361274719
+        }
+    },
+    {
+        "frame": 71,
+        "event": "crowded scene",
+        "confidence": 0.25673550367355347,
+        "similarity_scores": {
+            "person walking": 0.24408259987831116,
+            "vehicle stopping": 0.21775341033935547,
+            "crowded scene": 0.25673550367355347
+        }
+    },
+    {
+        "frame": 72,
+        "event": "crowded scene",
+        "confidence": 0.26204368472099304,
+        "similarity_scores": {
+            "person walking": 0.2516788840293884,
+            "vehicle stopping": 0.22699403762817383,
+            "crowded scene": 0.26204368472099304
+        }
+    },
+    {
+        "frame": 73,
+        "event": "crowded scene",
+        "confidence": 0.2526642084121704,
+        "similarity_scores": {
+            "person walking": 0.24138544499874115,
+            "vehicle stopping": 0.2091045379638672,
+            "crowded scene": 0.2526642084121704
+        }
+    },
+    {
+        "frame": 74,
+        "event": "crowded scene",
+        "confidence": 0.2536659240722656,
+        "similarity_scores": {
+            "person walking": 0.23799467086791992,
+            "vehicle stopping": 0.20561780035495758,
+            "crowded scene": 0.2536659240722656
+        }
+    },
+    {
+        "frame": 75,
+        "event": "crowded scene",
+        "confidence": 0.25226473808288574,
+        "similarity_scores": {
+            "person walking": 0.24269171059131622,
+            "vehicle stopping": 0.20477133989334106,
+            "crowded scene": 0.25226473808288574
+        }
+    },
+    {
+        "frame": 76,
+        "event": "crowded scene",
+        "confidence": 0.2473888099193573,
+        "similarity_scores": {
+            "person walking": 0.24075107276439667,
+            "vehicle stopping": 0.2010471224784851,
+            "crowded scene": 0.2473888099193573
+        }
+    },
+    {
+        "frame": 77,
+        "event": "crowded scene",
+        "confidence": 0.2482406198978424,
+        "similarity_scores": {
+            "person walking": 0.24113847315311432,
+            "vehicle stopping": 0.20578806102275848,
+            "crowded scene": 0.2482406198978424
+        }
+    },
+    {
+        "frame": 78,
+        "event": "crowded scene",
+        "confidence": 0.2469921112060547,
+        "similarity_scores": {
+            "person walking": 0.24256868660449982,
+            "vehicle stopping": 0.21453621983528137,
+            "crowded scene": 0.2469921112060547
+        }
+    },
+    {
+        "frame": 79,
+        "event": "crowded scene",
+        "confidence": 0.24737676978111267,
+        "similarity_scores": {
+            "person walking": 0.2441355288028717,
+            "vehicle stopping": 0.21168005466461182,
+            "crowded scene": 0.24737676978111267
+        }
+    },
+    {
+        "frame": 80,
+        "event": "crowded scene",
+        "confidence": 0.24983848631381989,
+        "similarity_scores": {
+            "person walking": 0.24253222346305847,
+            "vehicle stopping": 0.20941215753555298,
+            "crowded scene": 0.24983848631381989
+        }
+    },
+    {
+        "frame": 81,
+        "event": "crowded scene",
+        "confidence": 0.2578168213367462,
+        "similarity_scores": {
+            "person walking": 0.2477114200592041,
+            "vehicle stopping": 0.21621635556221008,
+            "crowded scene": 0.2578168213367462
+        }
+    }
+]

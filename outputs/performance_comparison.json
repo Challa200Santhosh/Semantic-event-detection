@@ -1,0 +1,19 @@
+{
+    "baseline": {
+        "avg_inference_time": 0.05786470378317484,
+        "fps": 17.281692199567903,
+        "model_load_time": 11.354779481887817,
+        "total_frames": 82
+    },
+    "optimized": {
+        "avg_inference_time": 0.04098302562062333,
+        "fps": 24.400345871408373,
+        "optimization_time": 1.06386137008667,
+        "total_frames": 82
+    },
+    "improvement": {
+        "speedup_factor": 1.4119187860560587,
+        "fps_improvement_percent": 41.19187860560587,
+        "time_reduction_percent": 29.174396581738225
+    }
+}
