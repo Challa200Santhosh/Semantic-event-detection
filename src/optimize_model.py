@@ -1,15 +1,4 @@
-"""Model Optimization - INT8 Quantization for Faster Inference
 
-WHY INT8 QUANTIZATION (NOT PRUNING)?
-====================================
-Quantization was chosen over pruning because:
-1. No fine-tuning needed (data-free optimization)
-2. 81.6% size reduction (vs 20-30% for pruning)
-3. 1.49× speedup on CPU (vs 1.1× for pruning)
-4. <1% accuracy loss (acceptable trade-off)
-5. Immediate deployment (no retraining required)
-6. Works on any model architecture
-"""
 import torch
 import torch.nn as nn
 import logging
